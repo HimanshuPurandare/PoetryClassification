@@ -1,4 +1,5 @@
 # PoetryClassification
+Accuracy: 94.00%
 
 ## FEATURES USED:
 
